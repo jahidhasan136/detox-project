@@ -14,7 +14,7 @@ const BlockchainPlatform = () => {
                 <p className='text-lg mb-4'>“90% of current enterprise blockchain platform implementations will require replacement by 2021.”</p>
                 <h2 className='mt-11'>Gartner</h2>
                 <h2 className='text-3xl mb-10 mt-6 mt-10'>Energy Consumption</h2>
-                <img className='mt-6' src={transaction} alt="" />
+                <img className='mt-6' src={energy} alt="" />
             </div>
         </div>
     );
