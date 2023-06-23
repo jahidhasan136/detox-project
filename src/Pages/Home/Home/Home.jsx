@@ -1,6 +1,7 @@
 import Banner from "../Banner/Banner";
 import BlockchainPlatform from "../BlockchainPlatform/BlockchainPlatform";
 import LybellFeatures from "../LybellFeatures/LybellFeatures";
+import Whitepaper from "../Whitepaper/Whitepaper";
 
 
 const Home = () => {
@@ -9,6 +10,7 @@ const Home = () => {
             <Banner></Banner>
             <BlockchainPlatform></BlockchainPlatform>
             <LybellFeatures></LybellFeatures>
+            <Whitepaper></Whitepaper>
         </div>
     );
 };
