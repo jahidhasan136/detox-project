@@ -6,3 +6,7 @@
 .btn_custom{
     @apply text-lg bg-[#F95B27] px-6 py-4 text-white font-semibold rounded-lg
 }
+
+.text_color{
+    @apply text-[#F95B27]
+}
