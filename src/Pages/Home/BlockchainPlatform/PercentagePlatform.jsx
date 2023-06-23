@@ -2,7 +2,7 @@
 
 const PercentagePlatform = () => {
     return (
-        <div className="mt-12 md:flex gap-11 justify-center mb-10">
+        <div className="mt-12 md:flex gap-11 justify-center">
             <div className="flex gap-11">
                 <div className="w-[410px]">
                     <p className="flex items-center px-10 py-8 border rounded-lg h-[100px]"><span className="text-5xl font-bold text_color">4.6+</span> <span className="text-2xl font-medium">Blockchain</span></p>
