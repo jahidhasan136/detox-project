@@ -2,7 +2,7 @@
 
 const Footer = () => {
     return (
-        <div className="container mx-auto ">
+        <div className="container mx-auto">
             <div className="mt-[150px] grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5">
             <div>
                 <h2 className="text-2xl uppercase font-semibold mb-10">Ecosystem</h2>
