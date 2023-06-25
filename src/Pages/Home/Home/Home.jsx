@@ -4,7 +4,6 @@ import BlockchainPlatform from "../BlockchainPlatform/BlockchainPlatform";
 import LybellFeatures from "../LybellFeatures/LybellFeatures";
 import Token from "../Token/Token";
 import Whitepaper from "../Whitepaper/Whitepaper";
-import './Home.css'
 
 
 const Home = () => {

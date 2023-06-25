@@ -15,46 +15,46 @@ const LybellFeatures = () => {
             </div>
             <div className='mt-[68px] flex items-center gap-[116px] justify-center'>
                 <div className='grid gap-9'>
-                    <div className='border px-[46px] rounded-[20px] w-[568px] h-[262px]'>
+                    <div className='bg-[#ffffff0d] px-[46px] rounded-[20px] w-[568px] py-8'>
                         <h2 className='text-[32px] font-bold mb-6'>Graphchain</h2>
                         <p className='text-lg font-medium mb-11'>Partial ordering Real-time updates No need for mining pools Scales with demand</p>
                         <p className=''>By allowing a DAG of data instead of a rigid Blockchain we include all users in every transaction..? something about what actually happens here</p>
                     </div>
-                    <div className='border px-[46px] rounded-[20px] w-[568px] h-[262px]'>
+                    <div className='border bg-[#ffffff0d] px-[46px] rounded-[20px] w-[568px] py-8'>
                         <h2 className='text-[32px] font-bold mb-6'>Blockchain</h2>
                         <p className='text-lg font-medium mb-11'>Linear ordering Periodic updates Mining pools Scales via forks and updates</p>
                         <p>By allowing a DAG of data instead of a rigid Blockchain we include all users in every transaction..? something about whatactually happens here</p>
                     </div>
                 </div>
-                <div className='border p-[18px] rounded-[30px]'>
-                    <img src={world} alt="" />
+                <div className='border bg-[#ffffff0d] p-[19px] rounded-[30px]'>
+                    <img className='h-[560px]' src={world} alt="" />
                 </div>
             </div>
             <div className='mt-20 flex justify-center gap-[70px]'>
                 <div>
-                    <img className='border p-8 rounded-full' src={fast} alt="" />
+                    <img className='border bg-[#ffffff1a] p-8 rounded-full' src={fast} alt="" />
                     <h2 className='text-[32px] font-semibold mt-6 flex justify-center'>Fast</h2>
                 </div>
                 <div>
                     <div>
-                        <img className='border p-8 rounded-full' src={scalable} alt="" />
+                        <img className='border bg-[#ffffff1a] p-8 rounded-full' src={scalable} alt="" />
                     </div>
                     <h2 className='text-[32px] font-semibold mt-6 flex justify-center'>Scalable</h2>
                 </div>
                 <div>
-                    <img className='border p-8 rounded-full' src={robust} alt="" />
+                    <img className='border bg-[#ffffff1a] p-8 rounded-full' src={robust} alt="" />
                     <h2 className='text-[32px] font-semibold mt-6 flex justify-center'>Robust</h2>
                 </div>
                 <div>
-                    <img className='border p-8 rounded-full' src={green} alt="" />
+                    <img className='border bg-[#ffffff1a] p-8 rounded-full' src={green} alt="" />
                     <h2 className='text-[32px] font-semibold mt-6 flex justify-center'>Green</h2>
                 </div>
                 <div>
-                    <img className='border p-8 rounded-full' src={cross_chain} alt="" />
+                    <img className='border bg-[#ffffff1a] p-8 rounded-full' src={cross_chain} alt="" />
                     <h2 className='text-[32px] font-semibold mt-6 flex justify-center'>Cross Chain</h2>
                 </div>
                 <div>
-                    <img className='border p-8 rounded-full' src={accessible} alt="" />
+                    <img className='border bg-[#ffffff1a] p-8 rounded-full' src={accessible} alt="" />
                     <h2 className='text-[32px] font-semibold mt-6 flex justify-center'>Accessible</h2>
                 </div>
             </div>
