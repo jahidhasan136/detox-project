@@ -1,6 +1,6 @@
-import { Link } from 'react-router-dom';
 import logo from '../../../assets/logo.png'
 import { IoIosArrowDown } from 'react-icons/io';
+import ActiveLink from '../../../components/ActiveLink/ActiveLink';
 
 //IoIosArrowDown
 const Navbar = () => {
@@ -11,11 +11,13 @@ const Navbar = () => {
                 <h2 className='text-[32px] font-bold'>DETOX</h2>
             </div>
             <div className="flex gap-11 text-lg">
-                <Link>Home</Link>
-                <Link>Features</Link>
-                <Link>Research</Link>
-                <Link className='flex items-center gap-2'>About <IoIosArrowDown></IoIosArrowDown></Link>
-                <Link>Positions</Link>
+            <div className="flex items-center gap-11 text-lg">
+                <ActiveLink to='/'>Home</ActiveLink>
+                <ActiveLink to='/features'>Features</ActiveLink>
+                <ActiveLink to='/research'>Research</ActiveLink>
+                <ActiveLink to='/about' className='flex gap-2'>About <IoIosArrowDown className='inline-block'></IoIosArrowDown></ActiveLink>
+                <ActiveLink to='/positions'>Positions</ActiveLink>
+            </div>
             </div>
             <button className='btn_custom'>Contact Us</button>
         </div>
