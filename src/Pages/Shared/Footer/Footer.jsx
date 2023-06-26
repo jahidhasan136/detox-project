@@ -44,7 +44,7 @@ const Footer = () => {
             </div>
         </div>
         <div className="mt-[140px] border"></div>
-        <div className="flex justify-between items-center mt-[45px] mb-10">
+        <div className="flex justify-between items-center mt-[45px] pb-10">
             <h2 className="text-[35px] font-bold">Lybell</h2>
             <p className="text-lg">&copy; 2023. All Rights Reserved</p>
         </div>
