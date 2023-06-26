@@ -3,3 +3,8 @@
     background-repeat: no-repeat;
     background-size: contain;
 }
+.leftUnicon{
+    background-image: url('../../../assets/roadmap/leftUnicon.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
