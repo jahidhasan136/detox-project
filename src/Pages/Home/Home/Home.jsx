@@ -14,10 +14,10 @@ const Home = () => {
             <Banner></Banner>
             <BlockchainPlatform></BlockchainPlatform>
             <LybellFeatures></LybellFeatures>
-            <Whitepaper></Whitepaper>
-            <Token></Token>
-            <LybellRoadmap></LybellRoadmap>
-            <ApplicationFocus></ApplicationFocus>
+            {/* <Whitepaper></Whitepaper> */}
+            {/* <Token></Token> */}
+            {/* <LybellRoadmap></LybellRoadmap> */}
+            {/* <ApplicationFocus></ApplicationFocus> */}
             <Newsletter></Newsletter>
         </div>
     );
