@@ -1,0 +1,5 @@
+.border_custom{
+    height: 1.5px;
+
+    background: linear-gradient(63deg, rgba(255, 149, 62, 0.40) 0%, rgba(255, 149, 62, 0.10) 100%);
+}

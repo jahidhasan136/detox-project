@@ -1,4 +1,4 @@
-
+import './Footer.css'
 
 const Footer = () => {
     return (
@@ -43,7 +43,7 @@ const Footer = () => {
                 <button className="bg-[#F95B27] px-10 py-[21px] rounded-2xl text-white font-medium mt-[50px]">Subscribe</button>
             </div>
         </div>
-        <div className="mt-[140px] border"></div>
+        <div className="mt-[140px] border_custom"></div>
         <div className="flex justify-between items-center mt-[45px] pb-10">
             <h2 className="text-[35px] font-bold">Lybell</h2>
             <p className="text-lg">&copy; 2023. All Rights Reserved</p>
