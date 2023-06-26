@@ -1,3 +1,5 @@
 .token{
     background-image: url('../../../assets/token/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }

@@ -1,0 +1,5 @@
+.newsletter_bg {
+    background-image: url('../../../assets/newsletter/newsletter_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
