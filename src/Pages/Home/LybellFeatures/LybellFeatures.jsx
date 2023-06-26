@@ -12,8 +12,8 @@ const LybellFeatures = () => {
     return (
         <div className="container mx-auto mt-[140px]">
             <div className='text-center md:w-[840px] mx-auto grid justify-center'>
-                <h1 className='text-2xl md:text-5xl font-bold capitalize md:leading-[60px] w-[342px]'>Lybell is collaborative, decentralized & efficient</h1>
-                <p className='mt-4 md:mt-8 text-base md:text-lg w-[342px]'>Lybell provides decentralized cross-chain collaborative consensus</p>
+                <h1 className='text-2xl md:text-5xl font-bold capitalize md:leading-[60px] w-[342px] md:w-full'>Lybell is collaborative, decentralized & efficient</h1>
+                <p className='mt-4 md:mt-8 text-base md:text-lg w-[342px] md:w-full'>Lybell provides decentralized cross-chain collaborative consensus</p>
             </div>
             <div className='mt-[30px] md:mt-[68px] md:flex items-center md:gap-[116px] mx-auto grid justify-center'>
                 <div className='grid gap-4 md:gap-9'>
