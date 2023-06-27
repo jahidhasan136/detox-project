@@ -22,9 +22,9 @@ const Navbar = () => {
                 </div>
             </div>
             <button className='hidden md:flex btn_custom'>Contact Us</button>
-            {/* <div className='bg-[#EB5934] p-3 rounded-full'>
+            <div className='md:hidden bg-[#EB5934] p-3 rounded-full'>
                 <PiSquaresFour className='text-4xl'></PiSquaresFour>
-            </div> */}
+            </div>
         </div>
     );
 };

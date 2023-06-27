@@ -70,6 +70,38 @@ const LybellFeatures = () => {
                     <h2 className='text-[32px] font-semibold mt-6 flex justify-center'>Accessible</h2>
                 </div>
             </div>
+            <div className='md:hidden container grid gap-8 pl-10 mt-[60px]'>
+                <div className='flex items-center gap-6'>
+                    <div className='w-[14px] h-[14px] bg-[#F95B27] rounded-full'>
+                    </div>
+                    <h2 className='text-2xl font-semibold'>Fast</h2>
+                </div>
+                <div className='flex items-center gap-6'>
+                    <div className='w-[14px] h-[14px] bg-[#F95B27] rounded-full'>
+                    </div>
+                    <h2 className='text-2xl font-semibold'>Scalable</h2>
+                </div>
+                <div className='flex items-center gap-6'>
+                    <div className='w-[14px] h-[14px] bg-[#F95B27] rounded-full'>
+                    </div>
+                    <h2 className='text-2xl font-semibold'>Robust</h2>
+                </div>
+                <div className='flex items-center gap-6'>
+                    <div className='w-[14px] h-[14px] bg-[#F95B27] rounded-full'>
+                    </div>
+                    <h2 className='text-2xl font-semibold'>Green</h2>
+                </div>
+                <div className='flex items-center gap-6'>
+                    <div className='w-[14px] h-[14px] bg-[#F95B27] rounded-full'>
+                    </div>
+                    <h2 className='text-2xl font-semibold'>Cross-Chain</h2>
+                </div>
+                <div className='flex items-center gap-6'>
+                    <div className='w-[14px] h-[14px] bg-[#F95B27] rounded-full'>
+                    </div>
+                    <h2 className='text-2xl font-semibold'>Accessible</h2>
+                </div>
+            </div>
         </div>
     );
 };
