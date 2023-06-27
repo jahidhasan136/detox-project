@@ -4,8 +4,8 @@ import './LybellRoadmap.css'
 const LybellRoadmap = () => {
     return (
         <div className='container mx-auto text-center mt-[132px]'>
-            <h2 className='text-5xl font-bold mb-8 leading-[65px]'>Lybell <br /> Launch Roadmap</h2>
-            <p className='text-lg mb-[60px] w-1/2 mx-auto'>Maecenas condimentum bibendum efficitur. Phasellus leo orci, tincidunt at eagestas ut, ultricies sit amet libero. Suspendisse vel auctor quam, accumsan feugiat arcu. In a justo magna.</p>
+            <h2 className='text-2xl md:text-5xl font-bold mb-4 md:mb-8 md:leading-[65px]'>Lybell <br /> Launch Roadmap</h2>
+            <p className='md:text-lg mb-[60px] w-1/2 mx-auto'>Maecenas condimentum bibendum efficitur. Phasellus leo orci, tincidunt at eagestas ut, ultricies sit amet libero. Suspendisse vel auctor quam, accumsan feugiat arcu. In a justo magna.</p>
             <div className='flex justify-center relative'>
                 <img src={lineUnicon} alt="" />
 
