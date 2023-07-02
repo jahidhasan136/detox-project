@@ -17,15 +17,15 @@ const LybellRoadmap = () => {
                         <p className='text-base text-justify'>Vivamus risus tortor, pharetra at mollis in, lacinia quis nulla. Donec diam tellus, porta vel arcu ac, condimentum finibus sapiened malesuada.</p>
                     </div>
                     <div className='rightUnicon absolute ml-10'>
-                        <p className='font-bold text-[28px] uppercase px-[66px] py-[55px]'>Jan 2023</p>
+                        <p className='font-bold text-[28px] uppercase px-[89px] pt-[25px] pb-[30px]'>Jan 2023</p>
                     </div>
                 </div>
 
                 {/* phase 2 */}
 
                 <div className='absolute flex mt-[324px]'>
-                    <div className='leftUnicon absolute right-12'>
-                        <p className='font-bold text-[28px] uppercase px-[66px] py-[55px]'>Feb 2023</p>
+                    <div className='leftUnicon absolute right-10'>
+                        <p className='font-bold text-[28px] uppercase pr-[95px] pl-[40px] pt-[25px] pb-[30px]'>Feb 2023</p>
                     </div>
                     <div className='absolute ml-10 w-[400px] '>
                         <h2 className='text-2xl font-bold -ml-72 mb-9 uppercase'>Phase 02</h2>
@@ -41,15 +41,15 @@ const LybellRoadmap = () => {
                         <p className='text-base text-justify'>Vivamus risus tortor, pharetra at mollis in, lacinia quis nulla. Donec diam tellus, porta vel arcu ac, condimentum finibus sapiened malesuada.</p>
                     </div>
                     <div className='rightUnicon absolute ml-10'>
-                        <p className='font-bold text-[28px] uppercase px-[66px] py-[55px]'>Mar 2023</p>
+                        <p className='font-bold text-[28px] uppercase px-[89px] pt-[25px] pb-[30px]'>Mar 2023</p>
                     </div>
                 </div>
 
                 {/* phase 4 */}
 
                 <div className='absolute flex mt-[788px]'>
-                    <div className='leftUnicon absolute right-12'>
-                        <p className='font-bold text-[28px] uppercase px-[66px] py-[55px]'>Apr 2023</p>
+                    <div className='leftUnicon absolute right-10'>
+                        <p className='font-bold text-[28px] uppercase pr-[95px] pl-[40px] pt-[25px] pb-[30px]'>Apr 2023</p>
                     </div>
                     <div className='absolute ml-10 w-[400px] '>
                         <h2 className='text-2xl font-bold -ml-72 mb-9 uppercase'>Phase 04</h2>
@@ -65,15 +65,15 @@ const LybellRoadmap = () => {
                         <p className='text-base text-justify'>Vivamus risus tortor, pharetra at mollis in, lacinia quis nulla. Donec diam tellus, porta vel arcu ac, condimentum finibus sapiened malesuada.</p>
                     </div>
                     <div className='rightUnicon absolute ml-10'>
-                        <p className='font-bold text-[28px] uppercase px-[66px] py-[55px]'>May 2023</p>
+                        <p className='font-bold text-[28px] uppercase px-[89px] pt-[25px] pb-[30px]'>May 2023</p>
                     </div>
                 </div>
 
                 {/* phase 6 */}
 
                 <div className='absolute flex mt-[1252px]'>
-                    <div className='leftUnicon absolute right-12'>
-                        <p className='font-bold text-[28px] uppercase px-[66px] py-[55px]'>Jun 2023</p>
+                    <div className='leftUnicon absolute right-10'>
+                        <p className='font-bold text-[28px] uppercase pr-[95px] pl-[40px] pt-[25px] pb-[30px]'>Jun 2023</p>
                     </div>
                     <div className='absolute ml-10 w-[400px] '>
                         <h2 className='text-2xl font-bold -ml-72 mb-9 uppercase'>Phase 06</h2>
