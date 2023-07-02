@@ -2,7 +2,7 @@ import './Footer.css'
 
 const Footer = () => {
     return (
-        <div className='text-center'>
+        <div className='text-center md:text-start'>
             <div className="container mx-auto">
                 <div className="mt-[60px] md:mt-[150px] grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5">
                     <div>
@@ -38,7 +38,7 @@ const Footer = () => {
                         <p className="text-xl mb-3">Support</p>
                         <p className="text-xl">Contact</p>
                     </div>
-                    <div className='mt-[60px] md:mt-0'>
+                    <div className='mt-[60px] md:mt-0 ml-8 md:ml-0'>
                         <h2 className="text-xl md:text-2xl uppercase font-semibold mb-6 md:mb-10 text_color">Newsletter</h2>
                         <p className=''>Subscribe to the newsletter to hear about Lybell updates and events</p>
                         <button className="bg-[#F95B27] px-10 py-[21px] rounded-2xl text-white font-medium mt-[32px] md:mt-[50px]">Subscribe</button>
